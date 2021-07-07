@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IadeKitapModel
+comment1.params=
+comment1.target=IadeKitapModel()
+comment2.params=no\ ad
+comment2.target=void\ IadeKayit(int,\ java.lang.String)
+comment3.params=k_ad
+comment3.target=void\ setKitapAd(java.lang.String)
+comment4.params=k_ogrencino
+comment4.target=void\ setogrenciNo(int)
+comment5.params=
+comment5.target=java.lang.String\ getKitapAd()
+comment6.params=
+comment6.target=int\ getogrenciNo()
+numComments=7

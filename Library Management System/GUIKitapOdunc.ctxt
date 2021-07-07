@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GUIKitapOdunc
+comment1.params=
+comment1.target=GUIKitapOdunc()
+comment2.params=k_kontrolor
+comment2.target=GUIKitapOdunc(KontrolorKitapOdunc)
+comment3.params=p_Pencere
+comment3.target=void\ pencereHazirla(javax.swing.JFrame)
+comment4.params=p_Pencere
+comment4.target=void\ panelHazirla(javax.swing.JFrame)
+numComments=5

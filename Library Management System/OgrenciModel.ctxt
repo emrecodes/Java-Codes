@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=OgrenciModel
+comment1.params=
+comment1.target=OgrenciModel()
+comment2.params=ad\ soyad\ No
+comment2.target=void\ Kay\u0131t\u00D6\u011Frenci(java.lang.String,\ java.lang.String,\ int)
+comment3.params=o_ad
+comment3.target=void\ set\u00F6\u011FrenciAd(java.lang.String)
+comment4.params=o_soyad
+comment4.target=void\ set\u00F6\u011FrenciSoyad(java.lang.String)
+comment5.params=o_no
+comment5.target=void\ set\u00F6\u011FrenciNo(int)
+comment6.params=
+comment6.target=java.lang.String\ get\u00F6\u011FrenciAd()
+comment7.params=
+comment7.target=java.lang.String\ get\u00F6\u011FrenciSoyad()
+comment8.params=
+comment8.target=int\ get\u00F6\u011FrenciNo()
+numComments=9
